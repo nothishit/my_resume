@@ -8,8 +8,8 @@
 - 📚 Постоянно учусь новому  
 
 ## 📫 Как связаться
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ai_silhouette)
-Email: vckrick@gmail.com
+Email: vckrick[at]gmail.com  
+Telegram: [@ai_silhouette](https://t.me/ai_silhouette)
 
 ## 📊 Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nothishit&show_icons=true&theme=radical)
