@@ -1,4 +1,4 @@
-# 👋 Привет, я NotHisHit 
+# 👋 Привет, я nothishit 
 
 🚀 Моё резюме: [Резюме](https://nothishit.github.io/my_resume/)
 
