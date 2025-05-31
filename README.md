@@ -8,7 +8,7 @@
 - 📚 Постоянно учусь новому  
 
 ## 📫 Как связаться
-Email: vckrick[at]gmail.com  
+Email: vckrick@gmail.com  
 Telegram: [@ai_silhouette](https://t.me/ai_silhouette)
 
 ## 📊 Статистика
